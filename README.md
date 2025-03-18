@@ -1,7 +1,9 @@
 # Hi, I'm Di Heng 👋
 ## 🐸 About Me
-- Currently an first year undergraduate computer science student at National University of Singapore
-- Aspiring software engineer  full-stack software development and building scalable and user-centric software products.
+- Currently a first year undergraduate cs student at National University of Singapore
+- Aspiring software engineer
+- Loves problem solving
+- Interested in full-stack development and building scalable products
 
 ## 📑 Projects
 - Software Engineer Intern at Computing or Voluntary Welfare Organisations
