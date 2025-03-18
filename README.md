@@ -16,7 +16,7 @@
 ### Backend  
 [![My Skills](https://skillicons.dev/icons?i=java,python,go,nodejs,express,prisma,spring,nginx)](https://skillicons.dev)
 ### Data  
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,cloudflare)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,aws,cloudflare)](https://skillicons.dev)
 ### DevOps  
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postman,linux,github,vite,npm)](https://skillicons.dev)
 
