@@ -10,6 +10,9 @@
 - Journey Wonder
 
 ## 🛠️ Tech Stack
+*Frontend*
+*Backend*
+*DevOps*
 
 ## 🤙 Hit Me Up
 - <div style="display: flex; align-items: center;">
