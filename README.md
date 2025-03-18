@@ -15,7 +15,7 @@
     <a href="https://www.linkedin.com/in/di-heng-hoo-a657361a3/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" 
              width="20" height="20">
-    </a>
+    </a>: 
     <a href="https://www.linkedin.com/in/di-heng-hoo-a657361a3/" target="_blank">Di Heng Hoo</a>
 </div>
 
