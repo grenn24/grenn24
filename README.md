@@ -12,9 +12,13 @@
 
 ## 🛠️ Tech Stack
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,materialui)](https://skillicons.dev)
 ### Backend  
+[![My Skills](https://skillicons.dev/icons?i=java,python,go,nodejs,express,prisma,spring,nginx)](https://skillicons.dev)
+### Data  
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,cloudflare)](https://skillicons.dev)
 ### DevOps  
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,linux)](https://skillicons.dev)
 
 ## 🤙 Hit Me Up
 - <div style="display: flex; align-items: center;">
