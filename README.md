@@ -1,6 +1,6 @@
 # Hi, I'm Di Heng 👋
 ## 🐸 About Me
-- Currently a first year undergraduate cs student at National University of Singapore
+- First year cs student at National University of Singapore
 - Aspiring software engineer
 - Loves problem solving
 - Interested in full-stack development and building scalable products
