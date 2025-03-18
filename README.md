@@ -20,8 +20,8 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/600px-CSS3_logo.svg.png" width="30" height="30">
     </div>
 </div>
-### Backend
-### DevOps
+### Backend  
+### DevOps  
 
 ## 🤙 Hit Me Up
 - <div style="display: flex; align-items: center;">
