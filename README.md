@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 ### Frontend
-<div style="display: flex; ;flex-direction:row ; align-items: center;">
+<div style="display: flex; flex-direction:row ; align-items: center;">
     <div style="width: 50px; height: 50px; border-radius: 8px; background-color: #E44D26; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png" width="30" height="30">
     </div>
