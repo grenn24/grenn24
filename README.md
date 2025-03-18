@@ -8,6 +8,7 @@
 ## 📑 Projects
 - Software Engineer Intern at Computing or Voluntary Welfare Organisations
 - Journey Wonder
+- NUS Gossips
 
 ## 🛠️ Tech Stack
 ### Frontend
