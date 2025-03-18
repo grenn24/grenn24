@@ -12,6 +12,14 @@
 
 ## 🛠️ Tech Stack
 ### Frontend
+<div style="display: flex; align-items: center;">
+    <div style="width: 50px; height: 50px; border-radius: 8px; background-color: #E44D26; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/HTML5_logo_and_wordmark.svg/600px-HTML5_logo_and_wordmark.svg.png" width="30" height="30">
+    </div>
+    <div style="width: 50px; height: 50px; border-radius: 8px; background-color: #2965F1; display: flex; justify-content: center; align-items: center; margin-right: 10px;">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/600px-CSS3_logo.svg.png" width="30" height="30">
+    </div>
+</div>
 ### Backend
 ### DevOps
 
