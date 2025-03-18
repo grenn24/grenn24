@@ -1,13 +1,13 @@
 # Hi, I'm Di Heng 👋
 ## 🐸 About Me
-- Currently an first year undergraduate computer scicence student at National University of Singapore
+- Currently an first year undergraduate computer science student at National University of Singapore
 - Aspiring software engineer  full-stack software development and building scalable and user-centric software products.
 
 ## 🛠️ Tech Stack
 
 ## 🤙 Hit Me Up
 - Email: hoodiheng@gmail.com
-- [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055)]([https://example.com](https://www.linkedin.com/in/di-heng-hoo-a657361a3/))
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="20" height="20">
 
 <!--
 **grenn24/grenn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
