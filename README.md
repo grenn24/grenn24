@@ -22,6 +22,10 @@
 
 ## 🤙 Hit Me Up
 - <div style="display: flex; align-items: center;">
+      🌐: <a href="https://hoodiheng.com" target="_blank" style="text-decoration: none">My Website</a>
+  </div>
+  </div>
+- <div style="display: flex; align-items: center;">
       ✉️: hoodiheng@gmail.com
   </div>
 - <div style="display: flex; align-items: center;">
