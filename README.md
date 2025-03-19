@@ -18,7 +18,7 @@
 ### Data  
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,aws,cloudflare)](https://skillicons.dev)
 ### DevOps  
-[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,linux,github,vite,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,postman,linux,github,firebase,vite,npm)](https://skillicons.dev)
 
 ## 🤙 Hit Me Up
 Looking forward to collaborate on interesting projects and internships
