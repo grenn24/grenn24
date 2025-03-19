@@ -21,6 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postman,linux,github,vite,npm)](https://skillicons.dev)
 
 ## 🤙 Hit Me Up
+For project colloborations / internships
 - <div style="display: flex; align-items: center;">
       🌐: <a href="https://hoodiheng.com" target="_blank" style="text-decoration: none">My Website</a>
   </div>
