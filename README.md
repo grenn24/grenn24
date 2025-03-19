@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=git,docker,postman,linux,github,vite,npm)](https://skillicons.dev)
 
 ## 🤙 Hit Me Up
-Looking forward to collaborate on projects and internships
+Looking forward to collaborate on interesting projects and internships
 - <div style="display: flex; align-items: center;">
       🌐: <a href="https://hoodiheng.com" target="_blank" style="text-decoration: none">My Website</a>
   </div>
@@ -32,10 +32,8 @@ Looking forward to collaborate on projects and internships
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="20" height="20" style="pointer-events:none"></img>: 
   <a href="https://www.linkedin.com/in/di-heng-hoo-a657361a3/" target="_blank" style="text-decoration: none">Di Heng Hoo</a>
 
-- <div style="display: flex; align-items: center;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="20" height="20" style="pointer-events:none"></img>: 
-    <a href="https://t.me/gren_24" target="_blank" style="text-decoration: none">@gren_24</a>
-  </div>
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="20" height="20" style="pointer-events:none"></img>: 
+  <a href="https://t.me/gren_24" target="_blank" style="text-decoration: none">@gren_24</a>
 
 <!--
 **grenn24/grenn24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
