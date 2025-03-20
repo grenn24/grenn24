@@ -12,7 +12,7 @@
 
 ## 🛠️ Tech Stack
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap,materialui,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,vue,nextjs,bootstrap,materialui,redux)](https://skillicons.dev)
 ### Backend  
 [![My Skills](https://skillicons.dev/icons?i=java,python,go,nodejs,express,prisma,spring,nginx)](https://skillicons.dev)
 ### Data  
