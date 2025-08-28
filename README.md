@@ -21,7 +21,7 @@
 ### DevOps  
 [![My Skills](https://skillicons.dev/icons?i=git,gitlab,docker,postman,linux,github,firebase,heroku,vite,npm)](https://skillicons.dev)
 
-## 🤙 Hit Me Up
+## 🤙 Let's Connect!
 Looking forward to collaborate on interesting projects and internships
 - <div style="display: flex; align-items: center;">
       🌐: <a href="https://hoodiheng.com" target="_blank" style="text-decoration: none">My Website</a>
