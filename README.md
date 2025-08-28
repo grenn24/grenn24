@@ -7,7 +7,7 @@
 - Interested in full-stack development and building scalable products
 
 ## 📑 Projects
-- Software Engineer Intern at Computing for Voluntary Welfare Organisations
+- Software Engineer at NUS Fintech Society
 - Journey Wonder
 - NUS Gossips
 
