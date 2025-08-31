@@ -1,9 +1,8 @@
 # Hi, I'm Di Heng 👋
 ![](https://komarev.com/ghpvc/?username=grenn24&color=green)
 ## 🐸 About Me
-- First year cs student at National University of Singapore
+- 2nd year cs student at National University of Singapore
 - Aspiring software engineer
-- Loves problem solving
 - Interested in full-stack development and building scalable products
 
 ## 📑 Projects
