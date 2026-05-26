@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=grenn24&color=green)
 ## 🐸 About Me
 - 2nd year cs student at National University of Singapore
-- Aspiring software engineer
+- Current software engineer intern at GovTech Singapore
 - Interested in full-stack development and building scalable products
 
 ## 📑 Projects
-- Software Engineer at NUS Fintech Society
+- NUS Fintech Society
 - Journey Wonder
 - NUS Gossips
 
