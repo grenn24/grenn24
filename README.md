@@ -32,7 +32,7 @@ Looking forward to collaborate on interesting projects and internships
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png?20140125013055" width="20" height="20" style="pointer-events:none"></img>: 
   <a href="https://www.linkedin.com/in/di-heng-hoo-a657361a3/" target="_blank" style="text-decoration: none">Di Heng Hoo</a>
 
-- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width="20" height="20" style="pointer-events:none"></img>: 
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/3840px-Telegram_logo.svg.png" width="20" height="20" style="pointer-events:none"></img>: 
   <a href="https://t.me/gren_24" target="_blank" style="text-decoration: none">@gren_24</a>
 
 <!--
