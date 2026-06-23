@@ -6,7 +6,7 @@
 - Interested in full-stack development and building scalable products
 
 ## 📑 Projects
-- NUS Fintech Society
+- SakuraMeet
 - Journey Wonder
 - NUS Gossips
 
